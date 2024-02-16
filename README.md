@@ -1,5 +1,7 @@
 # Eschool Parser
 
+Simple eschool.am parser for students.
+
 ## Installation
 
 Converter requires [Python](https://www.python.org/) v3+ to run.
